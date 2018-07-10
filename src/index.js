@@ -1,1 +1,1 @@
-console.log("Silence is gold");
+console.log("Silence is silver");
