@@ -1,3 +1,3 @@
-const test = str => console.log(str);
+const test = str => console.log(`Log: ${str}`);
 
 export default test;
