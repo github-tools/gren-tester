@@ -1,1 +1,3 @@
-console.log("Silence is silver");
+const test = str => console.log(str);
+
+export default test;
